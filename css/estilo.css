@@ -1,0 +1,31 @@
+* {
+    font-family: Arial;
+}
+
+p {
+    color: blue;
+    font-family: 'Times New Roman';
+    font-size: 12pt;
+}
+.botao {
+    color: gray;
+    text-decoration: none;
+    background-color: aquamarine;
+    border: solid gray 2px;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+#botao {
+    max-width: 50pt;
+}
+
+.input {
+    margin: 5pt;
+}
+
+#meuform {
+    background-color: lightblue;
+    padding: 0.5cm;
+    width: 7cm;
+}
